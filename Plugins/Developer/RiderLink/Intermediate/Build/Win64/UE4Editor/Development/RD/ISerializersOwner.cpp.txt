@@ -1,0 +1,82 @@
+D:\GitHub\ActionRougelike\ActionRoguelike\Plugins\Developer\RiderLink\Intermediate\Build\Win64\UE4Editor\Development\RD\Definitions.h
+D:\GitHub\ActionRougelike\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\src\main\base\ISerializersOwner.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\unordered_set
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\yvals_core.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\sal.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\concurrencysal.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\vadefs.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\xkeycheck.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\xhash
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\cmath
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\yvals.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\crtdbg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_new_debug.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_new.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\crtdefs.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\use_ansi.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdlib
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_math.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdlib.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_malloc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_search.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdlib.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\limits.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\xtr1common
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\intrin0.inl.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\cstring
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memory.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_memcpy_s.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\errno.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_string.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstring.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\cwchar
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdio
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\stdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wstdio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_stdio_config.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\wchar.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wconio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wctype.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wdirect.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wio.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_share.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wprocess.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_wtime.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/stat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\sys/types.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\list
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\xmemory
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\cstdint
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\stdint.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\limits
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\cfloat
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\float.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\climits
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\isa_availability.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\xstddef
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\cstddef
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\initializer_list
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\new
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\exception
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\type_traits
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\malloc.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\vcruntime_exception.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\eh.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.19041.0\ucrt\corecrt_terminate.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\xatomic.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\xutility
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\utility
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\xpolymorphic_allocator.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\tuple
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\vector
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\xbit_ops.h
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\xstring
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\iosfwd
+F:\VS2019\VC\Tools\MSVC\14.29.30133\INCLUDE\xnode_handle.h
+D:\GitHub\ActionRougelike\ActionRoguelike\Plugins\Developer\RiderLink\Source\RD\src\rd_framework_cpp\rd_framework_export.h
